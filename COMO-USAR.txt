@@ -1,0 +1,59 @@
+========================================
+   MAGNIFIC DECOR - NAVIDAD MAGNIFICA
+========================================
+
+🚀 COMO EXECUTAR O SITE:
+
+1. MÉTODO RÁPIDO - PYTHON (Recomendado):
+   - Clique duas vezes em "iniciar-servidor.bat"
+   - O navegador abrirá automaticamente
+   - O PDF da Mesa Posta funcionará perfeitamente!
+
+2. MÉTODO RÁPIDO - NODE.JS (Alternativo):
+   - Clique duas vezes em "iniciar-servidor-node.bat"
+   - O navegador abrirá automaticamente
+   - Funciona se Python não estiver instalado
+
+3. MÉTODO MANUAL - PYTHON:
+   - Abra o terminal/prompt na pasta do projeto
+   - Digite: python server.py
+   - Acesse: http://localhost:8000
+
+4. MÉTODO MANUAL - NODE.JS:
+   - Abra o terminal/prompt na pasta do projeto
+   - Digite: node server.js
+   - Acesse: http://localhost:8000
+
+5. MÉTODO DIRETO (Pode não carregar PDFs):
+   - Clique duas vezes em "index.html"
+   - Funciona, mas PDFs podem não carregar
+
+========================================
+
+📄 PDFs DISPONÍVEIS:
+- ✅CATALOGO MESA POSTA.pdf (Categoria: Mesa Posta)
+- exemplo-velas-colecao-2024.pdf (Categoria: Velas)
+
+========================================
+
+🎨 RECURSOS:
+- ✅ Paleta de cores elegante (Beige predominante)
+- ✅ Fontes modernas (Playfair Display + Inter)
+- ✅ Floco de neve girando lentamente
+- ✅ Categorização automática de PDFs
+- ✅ Design responsivo
+- ✅ 14 categorias especializadas
+
+========================================
+
+🔧 SOLUÇÃO DE PROBLEMAS:
+
+Se o PDF não carregar:
+1. Use o servidor local (método 1 ou 2)
+2. Verifique se o arquivo está na pasta "pdfs/"
+3. Abra o console do navegador (F12) para ver erros
+
+========================================
+
+👑 Magnific Decor - Navidad Magnifica
+Desenvolvido com ❤️ para uma experiência premium!
